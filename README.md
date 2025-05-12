@@ -4,6 +4,7 @@ This was the final group project done in my Advanced Machine Learning class in m
 
 Our goal was simple - can we predict which customers are likely to churn? 
 
+# Data Set
 Our data set to help us answer this consists of 100 thousand records (each indicative of a single telecom customer) and 100 attributes related to each of those customer’s. These attributes relate to a customer’s phone usage, revenue, call behavior, demographics, and equipment (phone) details. 
 
 # Selecting the Right Model for Churn Prediction
